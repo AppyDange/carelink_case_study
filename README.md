@@ -10,7 +10,7 @@
 Hi! 👋  
 This repository contains a complete **Digital Transformation Strategy** case study for **CareLink**, a real-time seizure detection & family escalation platform designed for vulnerable adolescents living away from home.
 
-The project was created as part of **HCI 544 – Digital Transformation Strategy** at Arizona State University and includes:
+The project was created as part of **HCI 544 – IT for Healthcare Innovation** at Arizona State University and includes:
 
 - Problem framing & unmet clinical need  
 - Digital health solution design (CareLink)  
@@ -40,8 +40,6 @@ CareLink closes this gap through **real-time seizure alerts**, **family escalati
   />
 </p>
 
----
-
 ## User Persona
 
 <p align="center">
@@ -69,6 +67,8 @@ CareLink closes this gap through **real-time seizure alerts**, **family escalati
 
 ## 📄 Full Report  
 👉 **Download / Read the PDF**  
-(`/CareLink Digital Transformation Strategy.pdf`)
+[`CareLink Digital Transformation Strategy.pdf`](https://github.com/AppyDange/carelink-case-study/blob/main/CareLink%20Digital%20Transformation%20Strategy.docx.pdf)
+
+
 
 
