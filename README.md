@@ -46,7 +46,7 @@ CareLink closes this gap through **real-time seizure alerts**, **family escalati
   <img 
     src="https://github.com/AppyDange/carelink-case-study/blob/main/HCI%20544%20User%20Persona%20CareLink.png?raw=true" 
     alt="CareLink User Persona" 
-    width="70%"
+    width="80%"
   />
 </p>
 
