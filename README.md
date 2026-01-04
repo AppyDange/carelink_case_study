@@ -36,7 +36,7 @@ CareLink closes this gap through **real-time seizure alerts**, **family escalati
   <img 
     src="https://github.com/AppyDange/carelink-case-study/blob/main/Screen%20Recording%202025-11-21%20at%209.42.30%20PM.gif?raw=true" 
     alt="CareLink Demo GIF"
-    width="40%" 
+    width="50%" 
   />
 </p>
 
